@@ -118,6 +118,8 @@ Python  : 3.10.11
 PyTorch : 2.7.1+cu118
 CUDA    : 11.8
 GPU     : NVIDIA GeForce GTX 1650
+OS      : Window 11
+Additional Python package versions are listed in requirements.txt
 ```
 
 Check with:
