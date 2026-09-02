@@ -114,10 +114,10 @@ For exact reproduction, reuse the saved split files rather than generating a new
 Fill these values using the actual experiment environment:
 
 ```text
-Python  :
-PyTorch :
-CUDA    :
-GPU     :
+Python  : 3.10.11
+PyTorch : 2.7.1+cu118
+CUDA    : 11.8
+GPU     : NVIDIA GeForce GTX 1650
 ```
 
 Check with:
@@ -127,4 +127,4 @@ python -c "import sys, torch; print('Python:', sys.version); print('PyTorch:', t
 ```
 
 ## AI and External Assistance Statement
-Generative AI tools were used to assist with experimental planning, code development and debugging, result organization, and language refinement. All experiments were executed by the author, and the experimental design, generated outputs, quantitative results, and final interpretations were reviewed and verified by the author.
+Generative AI tools were used as a supporting aid for code debugging, implementation suggestions, and language refinement. The research question, experimental design, model comparisons, evaluation strategy, execution of experiments, and interpretation of results were developed and performed by the author. All AI-assisted suggestions were reviewed and adapted before being used in the project.
