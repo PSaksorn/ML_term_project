@@ -1,0 +1,12 @@
+{
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "n_test_images": 7956,
+  "n_identities": 153,
+  "persistent_A_wrong_B_right_all_3_seeds": 4258,
+  "persistent_both_wrong_all_3_seeds": 556,
+  "persistent_model_B_failures_all_3_seeds": 570
+}

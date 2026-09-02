@@ -1,0 +1,13 @@
+person,yaw,illumination,path,A_predicted_person,A_predicted_label,A_correct,A_confidence,A_abs_yaw,B_predicted_person,B_predicted_label,B_correct,B_confidence,B_abs_yaw,abs_yaw,outcome
+person079,-90,9,E:\Thesis\Dataset\correct_angle_all\person079\left\90_degree_09.png,person035,34,0,0.0404739528894424,90,person036,35,0,0.8741467595100403,90,90,Both wrong
+person020,75,2,E:\Thesis\Dataset\correct_angle_all\person020\right\75_degree02.png,person023,22,0,0.0714746564626693,75,person059,58,0,0.7808439135551453,75,75,Both wrong
+person124,60,14,E:\Thesis\Dataset\correct_angle_all\person124\right\60_degree14.png,person002,1,0,0.1688580960035324,60,person102,101,0,0.2444421201944351,60,60,Both wrong
+person093,-45,18,E:\Thesis\Dataset\correct_angle_all\person093\left\45_degree_18.png,person139,138,0,0.1670925617218017,45,person143,142,0,0.8946102261543274,45,45,Both wrong
+person104,-15,18,E:\Thesis\Dataset\correct_angle_all\person104\left\15_degree18.png,person132,131,0,0.1998200714588165,15,person103,102,0,0.916407346725464,15,15,Both wrong
+person123,-90,14,E:\Thesis\Dataset\correct_angle_all\person123\left\90_degree_14.png,person003,2,0,0.0909457132220268,90,person036,35,0,0.8682117462158203,90,90,Both wrong
+person009,90,9,E:\Thesis\Dataset\correct_angle_all\person009\right\90_degree09.png,person035,34,0,0.1005725637078285,90,person036,35,0,0.7660597562789917,90,90,Both wrong
+person040,90,9,E:\Thesis\Dataset\correct_angle_all\person040\right\90_degree09.png,person148,147,0,0.0587999261915683,90,person101,100,0,0.7138965129852295,90,90,Both wrong
+person144,-90,14,E:\Thesis\Dataset\correct_angle_all\person144\left\90_degree_14.png,person003,2,0,0.0596001110970974,90,person080,79,0,0.7121608257293701,90,90,Both wrong
+person042,-90,18,E:\Thesis\Dataset\correct_angle_all\person042\left\90_degree_18.png,person003,2,0,0.0511269755661487,90,person036,35,0,0.6911192536354065,90,90,Both wrong
+person016,90,2,E:\Thesis\Dataset\correct_angle_all\person016\right\90_degree02.png,person003,2,0,0.2068940699100494,90,person036,35,0,0.69082111120224,90,90,Both wrong
+person088,-90,2,E:\Thesis\Dataset\correct_angle_all\person088\left\90_degree_02.png,person126,125,0,0.067160353064537,90,person055,54,0,0.5979578495025635,90,90,Both wrong

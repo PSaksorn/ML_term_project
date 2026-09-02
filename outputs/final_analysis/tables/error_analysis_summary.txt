@@ -1,0 +1,19 @@
+ML Term Project — Step 6 Error Analysis Summary
+
+Test images: 7,956
+
+Both correct: 1,595 (20.05%)
+A wrong / B right: 5,296 (66.57%)
+A right / B wrong: 15 (0.19%)
+Both wrong: 1,050 (13.20%)
+
+A wrong / B right: 5,296
+A right / B wrong: 15
+Both wrong: 1,050
+
+Interpretation guidance:
+- A wrong / B right illustrates cases where pose-diverse training adds robustness.
+- A right / B wrong captures trade-offs or unusual failures of Model B.
+- Both wrong identifies residual difficult cases, especially useful at extreme yaw.
+- High-confidence wrong predictions should be discussed as a limitation: confidence is not correctness.
+- Signed-yaw differences should be treated as secondary observations unless consistently directional.

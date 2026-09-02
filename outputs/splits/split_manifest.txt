@@ -1,0 +1,60 @@
+ML Term Project — Data Split Manifest
+
+Random seed:
+42
+
+Dataset:
+39,780 total images
+153 identities
+20 illumination conditions
+13 signed yaw conditions
+
+Illumination split:
+Train      (12): [1, 4, 6, 7, 8, 10, 11, 13, 15, 16, 17, 20]
+Validation (4): [3, 5, 12, 19]
+Test       (4): [2, 9, 14, 18]
+
+Model A — Frontal-only:
+Training poses: 0°
+Images/person: 12
+Total images: 1,836
+
+Model B — Pose-diverse:
+Training poses:
+  0°   : 4 images/person
+  -30° : 2 images/person
+  +30° : 2 images/person
+  -60° : 2 images/person
+  +60° : 2 images/person
+
+Images/person: 12
+Total images: 1,836
+
+Validation:
+Poses: [0, -30, 30, -60, 60]
+Held-out illumination IDs: [3, 5, 12, 19]
+Images/person: 20
+Total images: 3,060
+
+Test:
+Poses: [-90, -75, -60, -45, -30, -15, 0, 15, 30, 45, 60, 75, 90]
+Held-out illumination IDs: [2, 9, 14, 18]
+Images/person: 52
+Total images: 7,956
+
+Model B interpretation:
+Seen training poses:
+  0°, ±30°, ±60°
+
+Unseen interpolation poses:
+  ±15°, ±45°
+
+Extreme extrapolation poses:
+  ±75°, ±90°
+
+Important controls:
+- Model A and Model B have equal original-image training budgets.
+- Both use the same 12 training illumination conditions.
+- Validation and test illuminations are fully held out from training.
+- Both models use exactly the same validation and test sets.
+- Augmentation has NOT been applied at this stage.

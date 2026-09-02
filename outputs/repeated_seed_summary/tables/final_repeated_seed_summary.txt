@@ -1,0 +1,12 @@
+Repeated-Seed Final Summary
+===========================
+
+Seeds: [42, 123, 2026]
+
+Model A Accuracy: 19.17 ± 1.33%
+Model A Macro-F1: 23.40 ± 0.88%
+
+Model B Accuracy: 86.45 ± 0.51%
+Model B Macro-F1: 87.03 ± 0.25%
+
+Overall Accuracy Gain (B-A): 67.28 ± 0.91 percentage points
