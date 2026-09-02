@@ -2,9 +2,9 @@ from pathlib import Path
 import re
 import pandas as pd
 
-DATASET_ROOT = Path(r"E:\Thesis\Dataset\correct_angle_all")
+DATASET_ROOT = Path(r"path/to/dataset")
 
-OUTPUT_DIR = Path(r"D:\P\test_code\ml_term_project\outputs")
+OUTPUT_DIR = Path(r"outputs")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".tif", ".tiff"}
