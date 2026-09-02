@@ -1,13 +1,13 @@
 person,yaw,illumination,path,A_predicted_person,A_predicted_label,A_correct,A_confidence,A_abs_yaw,B_predicted_person,B_predicted_label,B_correct,B_confidence,B_abs_yaw,abs_yaw,outcome
-person002,90,9,E:\Thesis\Dataset\correct_angle_all\person002\right\90_degree09.png,person002,1,1,0.2345977127552032,90,person033,32,0,0.2202753126621246,90,90,A right / B wrong
-person119,-75,14,E:\Thesis\Dataset\correct_angle_all\person119\left\75_degree_14.png,person119,118,1,0.1720347553491592,75,person045,44,0,0.5037676692008972,75,75,A right / B wrong
-person100,-45,18,E:\Thesis\Dataset\correct_angle_all\person100\left\45_degree_18.png,person100,99,1,0.0950023084878921,45,person116,115,0,0.1700890660285949,45,45,A right / B wrong
-person151,-15,2,E:\Thesis\Dataset\correct_angle_all\person151\left\15_degree02.png,person151,150,1,0.1537773609161377,15,person144,143,0,0.4074274003505707,15,15,A right / B wrong
-person003,-90,9,E:\Thesis\Dataset\correct_angle_all\person003\left\90_degree_09.png,person003,2,1,0.1893073171377182,90,person046,45,0,0.1323877871036529,90,90,A right / B wrong
-person150,-90,2,E:\Thesis\Dataset\correct_angle_all\person150\left\90_degree_02.png,person150,149,1,0.1073218509554863,90,person021,20,0,0.2199683189392089,90,90,A right / B wrong
-person107,90,9,E:\Thesis\Dataset\correct_angle_all\person107\right\90_degree09.png,person107,106,1,0.0917294099926948,90,person057,56,0,0.2543812394142151,90,90,A right / B wrong
-person049,-90,2,E:\Thesis\Dataset\correct_angle_all\person049\left\90_degree_02.png,person049,48,1,0.0664966702461242,90,person147,146,0,0.2946411073207855,90,90,A right / B wrong
-person048,15,18,E:\Thesis\Dataset\correct_angle_all\person048\right\15_degree18.png,person048,47,1,0.0953858792781829,15,person129,128,0,0.4526967406272888,15,15,A right / B wrong
-person002,90,18,E:\Thesis\Dataset\correct_angle_all\person002\right\90_degree18.png,person002,1,1,0.178054541349411,90,person033,32,0,0.5272165536880493,90,90,A right / B wrong
-person002,90,2,E:\Thesis\Dataset\correct_angle_all\person002\right\90_degree02.png,person002,1,1,0.1099948659539222,90,person033,32,0,0.2404041290283203,90,90,A right / B wrong
-person107,90,18,E:\Thesis\Dataset\correct_angle_all\person107\right\90_degree18.png,person107,106,1,0.0584447979927063,90,person057,56,0,0.2512975335121155,90,90,A right / B wrong
+person002,90,9,person002/right/90_degree09.png,person002,1,1,0.2345977127552032,90,person033,32,0,0.2202753126621246,90,90,A right / B wrong
+person119,-75,14,person119/left/75_degree_14.png,person119,118,1,0.1720347553491592,75,person045,44,0,0.5037676692008972,75,75,A right / B wrong
+person100,-45,18,person100/left/45_degree_18.png,person100,99,1,0.0950023084878921,45,person116,115,0,0.1700890660285949,45,45,A right / B wrong
+person151,-15,2,person151/left/15_degree02.png,person151,150,1,0.1537773609161377,15,person144,143,0,0.4074274003505707,15,15,A right / B wrong
+person003,-90,9,person003/left/90_degree_09.png,person003,2,1,0.1893073171377182,90,person046,45,0,0.1323877871036529,90,90,A right / B wrong
+person150,-90,2,person150/left/90_degree_02.png,person150,149,1,0.1073218509554863,90,person021,20,0,0.2199683189392089,90,90,A right / B wrong
+person107,90,9,person107/right/90_degree09.png,person107,106,1,0.0917294099926948,90,person057,56,0,0.2543812394142151,90,90,A right / B wrong
+person049,-90,2,person049/left/90_degree_02.png,person049,48,1,0.0664966702461242,90,person147,146,0,0.2946411073207855,90,90,A right / B wrong
+person048,15,18,person048/right/15_degree18.png,person048,47,1,0.0953858792781829,15,person129,128,0,0.4526967406272888,15,15,A right / B wrong
+person002,90,18,person002/right/90_degree18.png,person002,1,1,0.178054541349411,90,person033,32,0,0.5272165536880493,90,90,A right / B wrong
+person002,90,2,person002/right/90_degree02.png,person002,1,1,0.1099948659539222,90,person033,32,0,0.2404041290283203,90,90,A right / B wrong
+person107,90,18,person107/right/90_degree18.png,person107,106,1,0.0584447979927063,90,person057,56,0,0.2512975335121155,90,90,A right / B wrong

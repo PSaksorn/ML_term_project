@@ -32,3 +32,6 @@ Multi-PIE/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Local CSV backups containing original machine paths
+outputs/_csv_path_backup/
