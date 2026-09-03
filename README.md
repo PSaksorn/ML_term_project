@@ -111,7 +111,6 @@ Important results are stored under `outputs/`, including:
 For exact reproduction, reuse the saved split files rather than generating a new split.
 
 ## Software and Hardware
-Fill these values using the actual experiment environment:
 
 ```text
 Python  : 3.10.11
